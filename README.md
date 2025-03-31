@@ -8,7 +8,7 @@ Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang ta
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/Prankers
+$ git clone https://github.com/randykyle76/Prankers
 $ cd Prankers
 $ make install
 $ ./main
