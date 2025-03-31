@@ -1,5 +1,5 @@
-from sanz import sanzexde
+from kyle import kyleexde
 
-sanz = sanzexde
+kyle = kyleexde
 
-print(sanz)
+print(kyle)
